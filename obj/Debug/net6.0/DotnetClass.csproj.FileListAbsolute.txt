@@ -1,0 +1,15 @@
+C:\Users\21jtu\DotnetClass\bin\Debug\net6.0\DotnetClass.exe
+C:\Users\21jtu\DotnetClass\bin\Debug\net6.0\DotnetClass.deps.json
+C:\Users\21jtu\DotnetClass\bin\Debug\net6.0\DotnetClass.runtimeconfig.json
+C:\Users\21jtu\DotnetClass\bin\Debug\net6.0\DotnetClass.dll
+C:\Users\21jtu\DotnetClass\bin\Debug\net6.0\DotnetClass.pdb
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.csproj.AssemblyReference.cache
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.AssemblyInfoInputs.cache
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.AssemblyInfo.cs
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.csproj.CoreCompileInputs.cache
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.dll
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\refint\DotnetClass.dll
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.pdb
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\DotnetClass.genruntimeconfig.cache
+C:\Users\21jtu\DotnetClass\obj\Debug\net6.0\ref\DotnetClass.dll
