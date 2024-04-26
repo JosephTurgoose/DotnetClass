@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj": {}
+    "C:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj": {}
   },
   "projects": {
-    "c:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj": {
+    "C:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj",
+        "projectUniqueName": "C:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj",
         "projectName": "DotnetClass",
-        "projectPath": "c:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj",
+        "projectPath": "C:\\Users\\21jtu\\DotnetClass\\DotnetClass.csproj",
         "packagesPath": "C:\\Users\\21jtu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\21jtu\\DotnetClass\\obj\\",
+        "outputPath": "C:\\Users\\21jtu\\DotnetClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\21jtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
