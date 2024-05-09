@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "mslearn-dotnet-files"
+		},
+		{
+			"name": "W03",
+			"path": "../Desktop/My Stuff/School/Dotnet/W03"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "DotnetClass/MyConsoleApp.sln"
+	}
+}

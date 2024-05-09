@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesMovie
+build_property.RootNamespace = RazorPagesMovie
+build_property.ProjectDir = C:\Users\21jtu\DotnetClass\RazorPagesMovie\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\21jtu\DotnetClass\RazorPagesMovie
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Todos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFRvZG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Todos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFRvZG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Todos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFRvZG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Todos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFRvZG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Todos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFRvZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/msdocs-app-service-sqldb-dotnetcore/DotNetCoreSqlDb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNkb2NzLWFwcC1zZXJ2aWNlLXNxbGRiLWRvdG5ldGNvcmVcRG90TmV0Q29yZVNxbERiXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-zfm8fpcjse
+
+[C:/Users/21jtu/DotnetClass/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tg5po7urw9

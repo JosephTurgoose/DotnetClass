@@ -1,0 +1,15 @@
+C:\Users\21jtu\DotnetClass\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\21jtu\DotnetClass\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\21jtu\DotnetClass\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\21jtu\DotnetClass\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\21jtu\DotnetClass\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\21jtu\DotnetClass\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
